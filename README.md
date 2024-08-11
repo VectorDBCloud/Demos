@@ -7,15 +7,15 @@ Welcome to the Vector Database Cloud Demos repository! This repository showcases
 
 ## Table of Contents
 
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Demos](#demos)
-  - [Example Projects](#example-projects)
-- [Usage](#usage)
-- [Contribution and Feedback](#contribution-and-feedback)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Disclaimer](#disclaimer)
+1. [About](#about)
+2. [Prerequisites](#prerequisites)
+3. [Demos](#demos)
+    1. [Example Projects](#example-projects)
+4. [Usage](#usage)
+5. [Contribution and Feedback](#contribution-and-feedback)
+6. [Code of Conduct](#code-of-conduct)
+7. [License](#license)
+8. [Disclaimer](#disclaimer)
 
 
 ## About
